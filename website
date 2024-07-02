@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>assignment1</title>
+    <style type="text/css">
+        {padding: 0; margin: 0; box-sizing: border-box;}
+        header{
+            width: 100%;
+            height: 100vh;
+            color: rgb(7, 7, 14);
+            background: url("images-5.jpg");
+            background-size: cover;
+            text-align: center;
+            text-shadow: 0cqmin;
+            font-family: sans-serif;
+        }
+        table{
+            width: 100%;
+            height: 100vh;
+            color: rgb(7, 7, 10);
+            background-size: cover;
+        }
+        iframe{
+            width: 100%;
+            height: 100vh;
+            color: ghostwhite;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img height="120" style="float: left; border-radius: 70%;" src="image-4.jpg">
+        <h1>dance.com</h1> contact:debjanisahu2902gmail.com</h1> 
+        <h1>Welcome To Our Site:RHYTHM OF DANCE!!</h1>
+<br>
+    </header>
+        <div>
+            <table>
+                <tr>
+                    <td><p>
+                       <h3>Dance is an art form, often classified as a sport, consisting of sequences of body movements with aesthetic and often symbolic value, 
+                        either improvised or purposefully selected.Dance can be categorized and described by its choreography, by its repertoire of movements 
+                        or by its historical period or place of origin.Dance is typically performed with musical accompaniment, and sometimes with the dancer 
+                        simultaneously using a musical instrument themselves.</h3>
+                    </p>
+                        <hr /></td>
+                    <td>
+                        <img width="550" width="308.22" style="float: right;" src="image-2.jpg"></img>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img width="550" src="image-3.jpg"></img>
+                    </td>
+                    <td>
+                        <p>
+                        <h3>Passion is a key component to any dancer. After the steps are learned, the blood sweat and tears are shed, and it's time to take the stage, passion is what's left to give. Without passion, dancing is just steps. 
+                            Each dancer is given the opportunity to convey a story every time they perform.Choreography is the art or practice of designing sequences of movements of physical bodies (or their depictions) in which motion or form or both are specified. 
+                            Choreography may also refer to the design itself. A choreographer is one who creates choreographies by practising the art of choreography, a process known as choreographing. It most commonly refers to dance choreography </h3>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <hr />
+        <div style="text-align: center;">
+            
+                <iframe width="1500" height="850"iframe width="560" height="315" width="560" height="315" src="https://www.youtube.com/embed/YL7AjZ-S6VA?si=o6znxr_tCUJqVQj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                </iframe>
+        </div>
+    </p>
+    <footer>
+        <small>"all rights reserved."</small>
+    </footer>
+</body>
+</html>
