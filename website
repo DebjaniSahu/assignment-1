@@ -10,7 +10,7 @@
             width: 100%;
             height: 100vh;
             color: rgb(7, 7, 14);
-            background: url("dance-3.jpg");
+            background: url("dd1.jpg");
             background-size: cover;
             text-align: center;
             text-shadow: 0cqmin;
@@ -20,7 +20,7 @@
             width: 100%;
             height: 100vh;
             color: rgb(7, 7, 10);
-            background: url("dance-3.jpg");
+            background: url("dd2.jpg");
             background-size: cover;
         }
         iframe{
@@ -33,19 +33,31 @@
 <body>
     <header>
         <img height="120" style="float: left; border-radius: 70%;" src="image-1.jpg">
-        <h1>dance.com</h1> contact:debjanisahu2902gmail.com</h1> 
-        <h1 style="font-family:Georgia, 'Times New Roman', Times, serif";>Welcome To Our Site:RHYTHM OF DANCE!!</h1>
-        <a href="assignment-2.html" style="float: right; color:white; background-color: red; font-size: 50px; border-radius: 10px;">form</a> 
+         <h1 class="contact">
+            <a href="mailto:debjanisahu290gmail.com">CONTACT</a>
+        </h1> 
+        <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; color: white;";>Welcome To Our Site:RHYTHM OF DANCE!!</h1>
+        <a href="assignment-2.html"  style="float: right; color:white; background-color: rgb(3, 0, 0); font-size: 50px; border-radius: 20px;">form</a> 
 <br>
     </header>
         <div>
             <table>
                 <tr>
                     <td><p>
+                        <h1 style="font-family: Georgia, 'Times New Roman', Times, serif;" >DANCE AND ITS FORMS:<br><br></h1>
                        <h3 style="font-family:cursive";>DANCE is an art form, often classified as a sport, consisting of sequences of body movements with aesthetic and often symbolic value, 
                         either improvised or purposefully selected.Dance can be categorized and described by its choreography, by its repertoire of movements 
                         or by its historical period or place of origin.Dance is typically performed with musical accompaniment, and sometimes with the dancer 
-                        simultaneously using a musical instrument themselves.</h3>
+                        simultaneously using a musical instrument themselves.
+                        List of Classical dances in India State of Origin<br>
+                        Bharatnatyam-Tamil Nadu <br>
+                        Kathak-Uttar Pradesh <br>
+                        Kuchipudi-Andhra Pradesh<br>
+                        Odissi-Odisha<br>
+                        Kathakali-Kerala<br>
+                        Sattriya-Assam<br>
+                        Manipuri-Manipur<br>
+                        Mohiniyattam-Kerala</h3>
                     </p>
                         <hr /></td>
                     <td>
@@ -61,7 +73,9 @@
                         <p>
                         <h3 style="font-family:cursive";> Passion is a key component to any dancer. After the steps are learned, the blood sweat and tears are shed, and it's time to take the stage, passion is what's left to give. Without passion, dancing is just steps. 
                             Each dancer is given the opportunity to convey a story every time they perform.Choreography is the art or practice of designing sequences of movements of physical bodies (or their depictions) in which motion or form or both are specified. 
-                            Choreography may also refer to the design itself. A choreographer is one who creates choreographies by practising the art of choreography, a process known as choreographing. It most commonly refers to dance choreography </h3>
+                            Choreography may also refer to the design itself. A choreographer is one who creates choreographies by practising the art of choreography, a process known as choreographing. It most commonly refers to dance choreography.
+                             Posted a choreography video for reference. 
+                         </h3>
                         </p>
                     </td>
                 </tr>
